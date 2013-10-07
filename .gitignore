@@ -1,0 +1,10 @@
+#compiled files
+*.pyc
+
+
+#images 
+*.jpg
+*.JPG
+*.PNG
+*.png
+
